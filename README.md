@@ -90,3 +90,5 @@ O total de lucro onde ( lucro = preço de compra - preço d e venda ) dos imóve
 ### 6 - Dashbord entregue ao CEO
 
 Segue o link: 
+
+### 7 - Conclusão
