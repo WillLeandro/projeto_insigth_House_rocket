@@ -83,7 +83,7 @@ As premissas adotadas para este projeto:
 |  **H4** - Imóveis que nunca foram reformados são em média 20% mais baratos | Verdadeira | Investir em imóveis não reformados e reformá-los para venda |
 |  **H5** - Imóveis em más condições, mas com boa vista são 10% mais caros | Verdadeira | Não investir em imóveis em más condições| 
 
-O total de lucro onde ( lucro = preço de compra - preço d e venda ) dos imóveis é de **$36.891.031,80 **
+O total de lucro onde ( lucro = preço de compra - preço d e venda ) dos imóveis é de **$36.891.031,80**
 
 
 
