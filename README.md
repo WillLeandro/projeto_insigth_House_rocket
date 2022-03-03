@@ -83,12 +83,16 @@ As premissas adotadas para este projeto:
 |  **H4** - Imóveis que nunca foram reformados são em média 20% mais baratos | Verdadeira | Investir em imóveis não reformados e reformá-los para venda |
 |  **H5** - Imóveis em más condições, mas com boa vista são 10% mais caros | Verdadeira | Não investir em imóveis em más condições| 
 
-O total de lucro onde ( lucro = preço de compra - preço d e venda ) dos imóveis é de **$36.891.031,80**
 
 
 
 ### 6 - Dashbord entregue ao CEO
 
-Segue o link: 
+Para acessar o dashbord clique [aqui](https://analises-house-agora-vai.herokuapp.com/)
 
 ### 7 - Conclusão
+
+O projeto tem a finalidade de gerar insights assim como responder as duas perguntas feitas pelo CEO da House Rocket, **1.** Quais imóveis a House Rocket deveria comprar e por qual preço de compra? e **2.** Uma vez o imóvel em posse da empresa, qual o melhor momento para vendê-lo e qual seria o preço da venda?. O objetivo foi atingindo onde foi produzido um dashbord com stramlit onde o time de negócios irá realizar consultas aos imóveis com potêncial lucrode de forma rápida e fácil.
+
+Foi localizado um total de 503 imóveis para compra e posteriormente revende-los gerando um lucro total de **$36.891.031,80**.
+
